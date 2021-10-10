@@ -3,6 +3,8 @@ An app that simulates a stop-error on your windows pc that I spent 3 hours makin
 
 alt-f4 is disabled to make the screen looks more promising
 
+mouse cursor will be hidden
+
 all other apps will be forced below the app so task manager cannot be accessed ;)
 
 only proper way to exit is pressing Ctrl + Up Arrow
