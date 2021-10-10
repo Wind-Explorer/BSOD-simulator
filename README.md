@@ -4,7 +4,7 @@ An app that simulates a stop-error on your windows pc :D
 
 The system did not actually crash. It is just a borderless window that displays preset error messages
 
-WARNING: DO NOT ATTEMPT TO LOCK THE COMPUTER (Windows key + L or Ctrl Alt Del lock) or explorer.exe will not respond and login screen will now show and you will have to force restart the computer which may cause copprution to explorer.exe like mine
+WARNING: DO NOT ATTEMPT TO LOCK THE COMPUTER (Windows key + L or Ctrl Alt Del lock) or explorer.exe will not respond and login screen will now show and you will have to force restart the computer which may cause corruption to explorer.exe like mine
 
 alt-f4 is disabled to make the screen looks more promising
 
