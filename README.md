@@ -11,4 +11,4 @@ only proper way to exit is pressing Ctrl + Up Arrow
 
 This app is only for entertainment purposes. Please do not use it to blackmail people
 
-This app has no virus. I used Malwarebytes and Windows Defeder to scan the file and no threat detected :D
+This app has no virus. I used Windows Defeder to scan the file and no threat detected :D
