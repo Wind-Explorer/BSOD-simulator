@@ -2,6 +2,8 @@
 An app that simulates a stop-error on your windows pc :D
 ![image](https://dm2302files.storage.live.com/y4mbeIoVNnH7xgZN_axhduwbwE3tftuctm2aq2Q06-OAd4kqYecDaR0E4z6TIgLpny76SjHtwoyAxYKaoZA3enXRilnFj4WYq_bboBhILAgqtfWgmAx4dkNEBixFxj76-bIJyBfDsSpdfCmvyCHT-ZVUk7Bo0RQ1kyC92h1vL2Js7K3vjtQ-pob-MAUeT6sGn_t?width=1920&height=1080&cropmode=none)
 
+The system did not actually crash. It is just a borderless window that displays preset error messages
+
 alt-f4 is disabled to make the screen looks more promising
 
 mouse cursor will be hidden
