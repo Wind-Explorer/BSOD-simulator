@@ -1,19 +1,25 @@
 # BSOD-simulator
-An app that simulates a stop-error on your windows pc :D
+A basic app simulating a [stop error][1] on your Windows device
 ![image](https://dm2302files.storage.live.com/y4mbeIoVNnH7xgZN_axhduwbwE3tftuctm2aq2Q06-OAd4kqYecDaR0E4z6TIgLpny76SjHtwoyAxYKaoZA3enXRilnFj4WYq_bboBhILAgqtfWgmAx4dkNEBixFxj76-bIJyBfDsSpdfCmvyCHT-ZVUk7Bo0RQ1kyC92h1vL2Js7K3vjtQ-pob-MAUeT6sGn_t?width=1920&height=1080&cropmode=none)
 
-The system did not actually crash. It is just a borderless window that displays preset error messages
+# The system did not actually crash.
+It is just a borderless window that displays preset error messages, serving as a foolish prank
 
-WARNING: DO NOT ATTEMPT TO LOCK THE COMPUTER (Windows key + L or Ctrl Alt Del lock) or explorer.exe will not respond and login screen will now show and you will have to force restart the computer which may cause corruption to explorer.exe like mine
+# WARNING: DO NOT ATTEMPT TO LOCK THE COMPUTER (`Windows` + `L` or `Ctrl`+`Alt`+`Del` lock)
+Due to the fact that this app suspends Windows' `explorer.exe`, any attempt to discard the suspended process will result in serious aftermath.
 
-alt-f4 is disabled to make the screen looks more promising
+# How does this app makes the stop error look real
 
-mouse cursor will be hidden
+`Alt` + `F4` is disabled to prevent users from easily quitting the app
 
-all other apps will be forced below the app so task manager cannot be accessed ;)
+cursor will be hidden to make the crash seem more promising
 
-only proper way to exit is pressing Ctrl + Up Arrow
+Any other opened windows will be forced below the app so task manager cannot be accessed
 
-This app is only for entertainment purposes. Please do not use it to blackmail people
+# How to properly exit the app
 
-This app has no virus. I used Windows Defeder to scan the file and no threat detected :D
+`Ctrl` + `Up (arrow)` to exit the app properly (resumes the suspended `explorer.exe` and closes the app
+
+This app is meant to be a prank. It does no damage to any computers in any way (when handled properly)
+
+[1]:https://support.microsoft.com/en-us/sbs/windows/troubleshoot-blue-screen-errors-5c62726c-6489-52da-a372-3f73142c14ad
