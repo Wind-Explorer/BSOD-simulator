@@ -1,5 +1,5 @@
 # BSOD-simulator
-A basic app simulating a [stop error][1] on your Windows device
+A prank app simulating a [stop error][1] on a Windows device
 ![image](https://dm2302files.storage.live.com/y4mbeIoVNnH7xgZN_axhduwbwE3tftuctm2aq2Q06-OAd4kqYecDaR0E4z6TIgLpny76SjHtwoyAxYKaoZA3enXRilnFj4WYq_bboBhILAgqtfWgmAx4dkNEBixFxj76-bIJyBfDsSpdfCmvyCHT-ZVUk7Bo0RQ1kyC92h1vL2Js7K3vjtQ-pob-MAUeT6sGn_t?width=1920&height=1080&cropmode=none)
 
 # The system did not actually crash.
