@@ -18,7 +18,7 @@ Any other opened windows will be forced below the app so task manager cannot be 
 
 # How to properly exit the app
 
-`Ctrl` + `Up (arrow)` to exit the app properly (resumes the suspended `explorer.exe` and closes the app
+`Ctrl` + `Up (arrow)` to exit the app properly (resumes the suspended `explorer.exe` and closes the app)
 
 This app is meant to be a prank. It does no damage to any computers in any way (when handled properly)
 
